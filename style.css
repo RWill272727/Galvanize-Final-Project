@@ -1,0 +1,80 @@
+sbody {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-family: Arial, Helvetica, Verdana, Sans-serif;
+  font-size: 14px;
+  color: 666666;
+  background: ffffff;
+}
+.hidden{
+  display: none;
+}
+h1 {
+  font-weight:bold;
+  text-align:center;
+  margin: 0;
+  padding: 0;
+}
+#page-container {
+  background: ffffff;
+  width: 900px;
+  margin: auto;
+}
+#main-nav{
+  height: 39px;
+  background: ;
+  border: 2px solid #efefef;
+  float: right;
+}
+#header{
+  height:;
+  background: ffffff;
+  padding:25px;
+  clear: both;
+}
+#content{
+  background: ffffff;
+  line-height:18px;
+  padding:25px;
+}
+#content h2{
+  margin: 0;
+  padding: 0;
+  color:black;
+  padding-bottom:15px;
+}
+.status-good {
+    color: green;
+}
+#jQuery {
+  margin: 0;
+  padding: 20;
+  color: black;
+  padding-bottom:15px;
+  padding-top:15px;
+  border-bottom: 2px solid #efefef;
+}
+#API {
+  margin: 0;
+  color: black;
+  padding-bottom:15px;
+  padding-top:15px;
+}
+#footer{
+  height: 10px;
+  background:;
+  clear: both;
+  padding:10px 25px;
+  font-family: Tahoma, Arial, Helvetica, Sans-serif;
+  font-size:10px;
+  border-top: 2px solid #efefef;
+}
+
+button {
+    display: inline-block;
+    height: 35px;
+    padding: 0;
+    margin: 0;
+    vertical-align: top;
+    width: 100px;
+}
